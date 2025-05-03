@@ -1,2 +1,2 @@
-flask
-redis
+allinone
+docker compose
